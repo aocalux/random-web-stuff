@@ -1,2 +1,2 @@
 # random-web-stuff
-Random stuff in the world wide web
+Random stuff on the world wide web
